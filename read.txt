@@ -1,0 +1,17 @@
+HEADER
+logo : Heroic Hyrule
+NAVLIST: Home,About,Quests,Swords,Triforce and Contact.
+
+= HERO SECTION == 
+h5 :#2 Epic
+h4: Adventure Tales
+h1: HYLAIN
+p: Embark on Hyrule's quests, face foes, and  become a legendary hero, destined to save this mystical land!!
+a: Explore More
+a: Watch Trailer
+
+HERE BG:
+245.59deg, #4d9559 0%, #38703d 28.53%, #133917 75.52%
+
+
+Images : Make By AI you can search on internet
